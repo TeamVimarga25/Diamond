@@ -14,7 +14,10 @@
    
    test_dir_kimb_new - Test data- Due to size limitations, these directories were not provided.
    
-   non_deposits_kimb_buffer.csv- Non-deposits data derived from the buffer methos
+   non_deposits_kimb_buffer.csv- Non-deposits data derived from the buffer method
+
+   List of images - CNN_prediction_kimb.jpg, ensemble_prediction_kimb.jpg, gcnn_prediction_kimb.jpg, rf_prediction_kimb.jpg, roc_auc_cnn.jpg, roc_auc_ensemble.jpg, roc_auc_gcnn.jpg, roc_auc_rf.jpg, roc_auc_xgb.jpg, xgb_prediction_kimb.jpg
+   
    
    ML_solutions - Shapefiles of all the ML algorithm results
    
