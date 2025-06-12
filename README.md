@@ -4,19 +4,15 @@
    
    final_stacked_kimb_mod.tif - Final stacked GEOTIFF file provided as a seperate google drive link
    
-   50K - Contains mineralization data
+   mineralization_gcs_ngdr.shp- Mineralization data
    
-   GeospatialMapsPackage- Contains deposit data from Bhukosh
+   Deposit.shp- Contains deposit data from Bhukosh
    
-   Deposit - Contains final deposit shapefile
+   kimb_deposit.shp - Contains final deposit shapefile
    
-   GEOTIFF_kimb - All GEOTIFF Files
+   train_dir_kimb_new - Training data- Not provided
    
-   train_dir_kimb_new - Training data
-   
-   test_dir_kimb_new - Test data
-   
-   IMAGES - Contains images of ML solutions and ROC curves
+   test_dir_kimb_new - Test data- Not provided
    
    non_deposits_kimb_buffer.csv- Contains non-deposits information
    
