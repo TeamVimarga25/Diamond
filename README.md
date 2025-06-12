@@ -16,7 +16,7 @@
    
    non_deposits_kimb_buffer.csv- Non-deposits data derived from the buffer methos
    
-   ML_solutions - Contains shape files of ML solutions
+   ML_solutions - Shapefiles of all the ML algorithm results
    
                   cnn_pred_kimb_1.shp- CNN results of the deposit class 1
                   ensemble_pred_kimb_1.shp-Ensemble results of the deposit class 1
