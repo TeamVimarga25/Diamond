@@ -4,17 +4,17 @@
    
    final_stacked_kimb_mod.tif - Final stacked GEOTIFF file provided as a seperate google drive link
    
-   mineralization_gcs_ngdr.shp- Mineralization data
+   mineralization_gcs_ngdr.shp- Mineralization data from NGDR
    
-   Deposit.shp- Contains deposit data from Bhukosh
+   Deposit.shp- Deposit data from Bhukosh 
    
-   kimb_deposit.shp - Contains final deposit shapefile
+   kimb_deposit.shp -  Diamond mineralization derived from deposit and shapefile shapefile
    
-   train_dir_kimb_new - Training data- Not provided
+   train_dir_kimb_new - Training data- Due to size limitations, these directories were not provided.
    
-   test_dir_kimb_new - Test data- Not provided
+   test_dir_kimb_new - Test data- Due to size limitations, these directories were not provided.
    
-   non_deposits_kimb_buffer.csv- Contains non-deposits information
+   non_deposits_kimb_buffer.csv- Non-deposits data derived from the buffer methos
    
    ML_solutions - Contains shape files of ML solutions
    
