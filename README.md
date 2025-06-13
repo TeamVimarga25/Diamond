@@ -2,7 +2,7 @@
 
    CODE FILE - Hackathon-2-kimb.ipynb
    
-   final_stacked_kimb_mod.tif - Final stacked GEOTIFF file provided as a seperate google drive link
+   final_stacked_kimb_mod.tif - Final stacked GEOTIFF file provided as a seperate google drive link- https://drive.google.com/file/d/1dyUjOmmnKBvuhQNfkxvNfL4HmnIVTY9C/view?usp=sharing
    
    mineralization_gcs_ngdr.shp- Mineralization data from NGDR
    
